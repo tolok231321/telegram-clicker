@@ -20,7 +20,7 @@ body{
     border-radius: 15px;
     color: white;
     font-size: 32px;
-    box-shadow: 0 9px #999;
+    box-shadow: 0 10px #999;
     touch-action: manipulation;
 
 }
