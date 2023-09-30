@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    background-color: #726EB7;
+}
+.base{
+     text-align: center;
+}
+#scores{
+    color: white;
+    font-size: 50px;
+    font-family: 'Pixelify Sans', cursive;
+}
+#buttons{
+    position: relative;
+    top: 270px;
+    padding: 0px;
+    width: 260px;
+    height: 140px;
+    background-color: #005b6e;
+    border-radius: 15px;
+    color: white;
+    font-size: 32px;
+    box-shadow: 0 9px #999;
+
+}
+#buttons:active {
+    background-color: #004350;
+    box-shadow: 0 5px #666;
+    transform: translateY(10px);
+}
